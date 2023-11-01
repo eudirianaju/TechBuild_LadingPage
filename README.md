@@ -14,3 +14,6 @@ Este repositório serve como parte do meu portfólio, demonstrando minha habilid
 
 
 Para se conectar ou colaborar com esse ou mais projetos, envie e-mail para [nunesmeloanajulia@gmail.com]! 🚀✨
+
+![screencapture-127-0-0-1-5500-index-html-2023-11-01-12_45_29](https://github.com/eudirianaju/TechBuild_LadingPage/assets/100884185/c2da0bcc-125d-4fc0-b0b2-7da3df51aa49)
+
