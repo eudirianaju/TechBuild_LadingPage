@@ -1,2 +1,16 @@
-# TechBuild_LadingPage
-TechBuild - Sua Loja Online para Materiais de Construção e Artigos para Casa
+🏠 TechBuild Landing Page
+
+Este é um repositório para o projeto TechBuild Landing Page, uma página web interativa e envolvente criada para um site de vendas de materiais de construção, ferramentas e artigos para casa. O projeto foi desenvolvido usando HTML e CSS e apresenta uma ampla gama de recursos visuais e de design. 🚀
+
+Recursos Destacados:
+
+Design Interativo: A página oferece uma experiência interativa com elementos de design atraentes. 💫
+
+Usabilidade Intuitiva: Navegação fácil para os usuários, permitindo que eles encontrem rapidamente o que desejam. 🧭
+
+Layout NÃO Responsivo: No entanto, é importante observar que esta landing page ainda não é responsiva. Ela foi criada principalmente como um projeto para demonstrar habilidades de design e desenvolvimento, e futuras alterações podem incluir torná-la compatível com dispositivos móveis. 📱
+
+Este repositório serve como parte do meu portfólio, demonstrando minha habilidade em criar páginas web visualmente atraentes e funcionais. Sinta-se à vontade para explorar o código-fonte e os recursos utilizados neste projeto! 🌟
+
+
+Para se conectar ou colaborar com esse ou mais projetos, envie e-mail para [nunesmeloanajulia@gmail.com]! 🚀✨
